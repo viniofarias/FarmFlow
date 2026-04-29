@@ -77,13 +77,12 @@ web_modules/
 # Next.js build output
 .next
 out
-
+.swc
+next-env.d.ts
 # Nuxt.js build / generate output
 .nuxt
 dist
 .output
-.swc
-next-env.d.ts
 # Gatsby files
 .cache/
 # Comment in the public line in if your project uses Gatsby and not Next.js
